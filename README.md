@@ -52,6 +52,3 @@ Razvojna okolja in orodja:
 * XML
 
 Za uporabo in izvedbo aplikacije je potrebno repozitorij klonirat in z Android Studiom zagnat.
-
-Povezava do repozitorija mobilne aplikacije:
-https://gitlab.com/Supuk/androidstudioscene

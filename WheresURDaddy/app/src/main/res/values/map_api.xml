@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="map_key" translatable="false">AIzaSyDEGplj5jZwIFryfiSZ7vj8yiSbJIgaXVQ</string>
+    <string name="map_key" translatable="false">API KEY</string>
 
 </resources>

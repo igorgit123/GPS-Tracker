@@ -1,0 +1,8 @@
+<resources>
+    <string name="user_id_placeholder">User: %1$s</string>
+    <string name="app_name">GPS Tracker</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="gpslogo">TODO</string>
+</resources>
